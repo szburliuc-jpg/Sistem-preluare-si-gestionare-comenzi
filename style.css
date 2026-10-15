@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
@@ -212,7 +212,7 @@ img { max-width: 100%; }
 @media (prefers-reduced-motion: reduce) {
     .slides, .sidebar, .overlay, .dot, .product, .cat-tile img { transition: none; }
 }
-=======
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -296,4 +296,4 @@ footer {
     color: #777;
     margin-top: 25px;
 }
->>>>>>> 291ecc599dce86ddc5811d4678a73e177db28958
+
