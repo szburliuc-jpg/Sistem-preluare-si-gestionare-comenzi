@@ -1,0 +1,16 @@
+Aici sunt fotografiile site-ului. Fișierele de acum sunt doar pline de rezervă (fundal închis).
+Înlocuiți-le cu poze reale, păstrând EXACT aceleași nume de fișier.
+
+Dimensiuni recomandate:
+  hero-pizza.jpg, hero-paste.jpg, hero-salate.jpg   -> 1600x700 px (caruselul de pe prima pagină)
+  toate celelalte                                    -> 900x675 px (raport 4:3)
+
+Poze necesare:
+  hero-pizza, hero-paste, hero-salate, despre
+  pizza-margherita, pizza-pepperoni, pizza-formaggi, pizza-diavola
+  paste-carbonara, paste-bolognese, paste-pesto
+  salata-caesar, salata-greceasca, salata-caprese
+  supa-pui, supa-ciuperci
+
+Surse gratuite: unsplash.com, pexels.com, pixabay.com (căutați "pizza", "pasta carbonara", "caesar salad" etc.)
+Cel mai bine: fotografiile propriului restaurant.
